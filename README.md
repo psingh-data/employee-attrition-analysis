@@ -1,18 +1,41 @@
 # Employee Attrition Analysis & Prediction
 
 ## Project Overview
-This project analyzes employee attrition using Python and Power BI.
+This project focuses on analyzing employee attrition using data analytics and machine learning techniques. The goal is to identify key factors driving employee turnover and provide actionable insights to improve retention strategies.
 
-## Tools Used
-- Python
-- Machine Learning
+## Business Problem
+Employee attrition leads to increased costs, reduced productivity, and loss of talent. This project aims to answer:
+- Why do employees leave?
+- Which employees are at high risk?
+- How can organizations reduce attrition?
+
+## Tools & Technologies
+- Python (Pandas, NumPy, Seaborn)
+- Machine Learning (Logistic Regression)
+- SQL
 - Power BI
 
 ## Key Insights
-- Low salary leads to higher attrition
-- Overtime increases attrition
-- Job satisfaction impacts retention
+- Employees with lower salaries are significantly more likely to leave
+- Overtime is a strong predictor of attrition
+- Job satisfaction plays a critical role in retention
+- Younger employees (25–35) show higher turnover rates
 
 ## Dashboard
-Screenshot 
-https://github.com/psingh-data/employee-attrition-analysis/blob/main/images/dashboard.png?raw=true
+The Power BI dashboard provides:
+- Workforce overview
+- Attrition trends
+- Key drivers of attrition
+- Actionable business insights
+
+![Dashboard](images/dashboard.png)
+
+## Project Structure
+- data/ → dataset
+- notebook/ → analysis & model
+- dashboard/ → Power BI dashboard
+- images/ → dashboard visuals
+
+## Conclusion
+This project demonstrates how data-driven decision-making can help organizations proactively reduce employee attrition and improve workforce management.
+
