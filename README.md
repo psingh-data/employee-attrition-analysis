@@ -15,3 +15,4 @@ This project analyzes employee attrition using Python and Power BI.
 
 ## Dashboard
 Screenshot 
+https://github.com/psingh-data/employee-attrition-analysis/blob/main/images/dashboard.png?raw=true
